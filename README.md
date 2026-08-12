@@ -184,28 +184,6 @@ Participated in a hackathon and worked on solving real-world problems through te
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyadharshini3012&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini3012&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini3012&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 ```text
