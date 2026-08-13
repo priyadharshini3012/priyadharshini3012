@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Priyadharshini%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Hi%20there,%20I'm%20Priyadharshini%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Software+Developer;Full+Stack+Developer;Building+Real-World+Solutions;React.js+%7C+Node.js+%7C+Flask;Exploring+AI-Powered+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+(MERN+%7C+Flask);Building+Real-World+Solutions;Exploring+AI-Powered+Applications;Open+to+Opportunities+%F0%9F%9A%80"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/priyadharshini-s-cs-student-11b494299">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/priyadharshini3012">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:hipriya3012@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -28,194 +26,150 @@
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
-🎓 Computer Science and Engineering student at **PSNA College of Engineering and Technology**
+```yaml
+name: Priyadharshini S
+role: Software Developer | Full Stack Developer
+education: B.E. Computer Science and Engineering @ PSNA College of Engineering and Technology
+focus: Full-stack web development, REST APIs, AI-powered applications
+currently_exploring: Scalable software design, LLM-integrated apps
+fun_fact: I enjoy turning "it should work in theory" into "it actually works" 🚀
+```
 
-💻 **Software Developer | Full Stack Developer**
-
-🚀 Passionate about building practical applications that solve real-world problems.
-
-🤖 Interested in **AI-powered applications and modern web development**.
-
-🌱 Continuously learning and improving my software development skills.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 📚 Concepts
-
-<p>
-<img src="https://img.shields.io/badge/OOP-Concepts-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST-APIs-00A86B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRUD-Operations-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API-Integration-8A2BE2?style=for-the-badge"/>
-</p>
+- 🎓 CSE undergrad who likes shipping things that actually get *used*, not just built.
+- 💻 Comfortable across the stack — React on the front, Node/Express or Flask on the back, MySQL/MongoDB underneath.
+- 🤖 Increasingly pulled toward AI-powered tooling — summarization, automation, smarter UX.
+- 🌱 Learner by default — every project is a chance to pick up something new.
 
 ---
 
-# 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-## 🏢 SmartQueue
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Smart Queue Management System for Government Offices
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,js,python,html,css"/></p>
 
-A full-stack web application designed to improve queue management in government offices.
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/></p>
 
-**✨ Features**
+</td>
+<td valign="top" width="50%">
 
-- 🎫 Digital token generation
-- 🔢 Priority-based queue management
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb"/></p>
+
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
+
+</td>
+</tr>
+</table>
+
+**Core Concepts**
+
+<p>
+<img src="https://img.shields.io/badge/OOP-Concepts-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-APIs-00A86B?style=flat-square"/>
+<img src="https://img.shields.io/badge/CRUD-Operations-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-Integration-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC-Architecture-1E90FF?style=flat-square"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏢 SmartQueue**
+<br>
+<sub>Smart queue management system for government offices — digital tokens, QR codes, SMS alerts, role-based dashboards.</sub>
+<br><br>
+`Python` `Flask` `MySQL` `JavaScript`
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 NoteAI**
+<br>
+<sub>AI-powered text & PDF summarizer using a BART transformer via Hugging Face, with a React frontend and Flask backend.</sub>
+<br><br>
+`React` `Flask` `Python` `Hugging Face`
+
+</td>
+<td width="33%" valign="top">
+
+**📋 MERN Task Manager**
+<br>
+<sub>Full-stack task manager with auth, CRUD task operations, and a REST API — built end-to-end on the MERN stack.</sub>
+<br><br>
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 Project details</b></summary>
+
+<br>
+
+**SmartQueue — Smart Queue Management System**
+- 🎫 Digital token generation with priority-based queueing
 - 📱 QR-code token generation
-- 📩 SMS notifications
-- 👥 Role-based dashboards
-- 🗄️ MySQL database integration
+- 📩 SMS notifications on queue updates
+- 👥 Role-based dashboards for staff and citizens
+- 🗄️ MySQL-backed persistence
 
-**🛠️ Tech Stack**
+**NoteAI — AI-Powered Document Summarization**
+- 📄 Summarizes raw text and PDF documents
+- 🔗 Uses a BART transformer model via Hugging Face Transformers
+- ⚛️ React.js frontend talking to a Flask API backend
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 🤖 NoteAI
-
-### AI-Powered Document Summarization
-
-An AI-powered web application for summarizing text and PDF documents.
-
-**✨ Features**
-
-- 📄 Text summarization
-- 📑 PDF summarization
-- 🤖 BART Transformer model
-- 🔗 Hugging Face Transformers
-- ⚛️ React.js frontend
-- 🐍 Flask backend
-
-**🛠️ Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
----
-
-## 📋 MERN Task Manager
-
-A full-stack task management application built using the MERN stack.
-
-**✨ Features**
-
+**MERN Task Manager**
 - 🔐 User authentication
-- 📝 Task management
-- ➕ Create and manage tasks
-- 🔄 REST API integration
-- 🗄️ MongoDB database
+- 📝 Create, update, and manage tasks via a REST API
+- 🗄️ MongoDB for storage
 
-**🛠️ Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+</details>
 
 ---
 
-# 💼 Internship Experience
+### 💼 Experience
 
-## 🚀 Full Stack Development Intern
-
-**Phoenix Soft Tech — Madurai**
-
-📅 July 2026
-
-- Developed responsive full-stack web applications using the **MERN stack**.
-- Built **RESTful APIs**.
-- Implemented **CRUD operations**.
-- Integrated MongoDB with React applications.
-- Collaborated with the development team using **Git/GitHub**.
+| Role | Company | Duration | Highlights |
+|---|---|---|---|
+| Full Stack Development Intern | Phoenix Soft Tech, Madurai | Jul 2026 | Built responsive MERN apps, RESTful APIs, CRUD flows, MongoDB + React integration, Git/GitHub collaboration |
+| Python Full Stack Development Intern | Vinsup Infotech, Madurai | Jan 2025 | Hands-on Flask + HTML/CSS development, database integration, contributed to full web app builds |
 
 ---
 
-## 🐍 Python Full Stack Development Intern
+### 🏆 Hackathons & Events
 
-**Vinsup Infotech — Madurai**
-
-📅 January 2025
-
-- Gained hands-on experience in Python full-stack development.
-- Worked with Flask, HTML, CSS and databases.
-- Contributed to web application development.
-- Worked on database integration.
+- 🚀 **Rajalakshmi Engineering College, Chennai** — hackathon on innovative technology solutions
+- 💡 **K. Ramakrishnan College of Engineering** — hackathon on solving real-world problems through tech
 
 ---
 
-# 🏆 Hackathons & Events
+### 📜 Certifications
 
-### 🚀 Rajalakshmi Engineering College — Chennai
-
-Participated in a hackathon focused on developing innovative technology solutions.
-
-### 💡 K. Ramakrishnan College of Engineering
-
-Participated in a hackathon focused on solving real-world problems through technology.
+🏅 React.js — Scaler Academy &nbsp;|&nbsp; 🏅 MongoDB Basics for Students
 
 ---
 
-# 📜 Certifications
-
-🏅 **React.js — Scaler Academy**
-
-🏅 **MongoDB Basics for Students**
-
----
-
-# 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyadharshini3012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyadharshini3012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini3012&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br><br>
 
@@ -223,53 +177,46 @@ Participated in a hackathon focused on solving real-world problems through techn
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini3012&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini3012&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyadharshini3012&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+### 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-00C6FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Applications-7F00FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST%20APIs-00A86B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scalable%20Software-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable%20Software%20Design-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Integrated%20Apps-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced%20REST%20APIs-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Deployment-FF6B35?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
+
+### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/priyadharshini-s-cs-student-11b494299">
 <img src="https://img.shields.io/badge/LinkedIn-Priyadharshini%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:hipriya3012@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-hipriya3012-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/priyadharshini3012">
 <img src="https://img.shields.io/badge/GitHub-priyadharshini3012-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-⭐ **Thanks for visiting my profile!**
-
-</div>
-
-<br>
-
-<div align="center">
+⭐ **Thanks for stopping by — always open to interesting collaborations!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
