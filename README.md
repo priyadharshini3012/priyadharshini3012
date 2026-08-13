@@ -26,9 +26,7 @@
 
 </div>
 
----
-
-## 👋 About Me
+# 👋 About Me
 
 🎓 Computer Science and Engineering student at **PSNA College of Engineering and Technology**
 
@@ -40,9 +38,7 @@
 
 🌱 Continuously learning and improving my software development skills.
 
----
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming
 
@@ -83,8 +79,6 @@
 <img src="https://img.shields.io/badge/API-Integration-8A2BE2?style=for-the-badge"/>
 </p>
 
----
-
 # 🚀 Featured Projects
 
 ## 🏢 SmartQueue
@@ -95,12 +89,12 @@ A full-stack web application designed to improve queue management in government 
 
 **✨ Features**
 
-- 🎫 Digital token generation
-- 🔢 Priority-based queue management
-- 📱 QR-code token generation
-- 📩 SMS notifications
-- 👥 Role-based dashboards
-- 🗄️ MySQL database integration
+* 🎫 Digital token generation
+* 🔢 Priority-based queue management
+* 📱 QR-code token generation
+* 📩 SMS notifications
+* 👥 Role-based dashboards
+* 🗄️ MySQL database integration
 
 **🛠️ Tech Stack**
 
@@ -111,8 +105,6 @@ A full-stack web application designed to improve queue management in government 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
-
 ## 🤖 NoteAI
 
 ### AI-Powered Document Summarization
@@ -121,12 +113,12 @@ An AI-powered web application for summarizing text and PDF documents.
 
 **✨ Features**
 
-- 📄 Text summarization
-- 📑 PDF summarization
-- 🤖 BART Transformer model
-- 🔗 Hugging Face Transformers
-- ⚛️ React.js frontend
-- 🐍 Flask backend
+* 📄 Text summarization
+* 📑 PDF summarization
+* 🤖 BART Transformer model
+* 🔗 Hugging Face Transformers
+* ⚛️ React.js frontend
+* 🐍 Flask backend
 
 **🛠️ Tech Stack**
 
@@ -137,19 +129,17 @@ An AI-powered web application for summarizing text and PDF documents.
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
-
 ## 📋 MERN Task Manager
 
-A full-stack task management application built using the MERN stack.
+A full-stack task management application built using the **MERN stack**.
 
 **✨ Features**
 
-- 🔐 User authentication
-- 📝 Task management
-- ➕ Create and manage tasks
-- 🔄 REST API integration
-- 🗄️ MongoDB database
+* 🔐 User authentication
+* 📝 Task management
+* ➕ Create and manage tasks
+* 🔄 REST API integration
+* 🗄️ MongoDB database
 
 **🛠️ Tech Stack**
 
@@ -160,56 +150,46 @@ A full-stack task management application built using the MERN stack.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
-
 # 💼 Internship Experience
 
 ## 🚀 Full Stack Development Intern
 
-**Phoenix Soft Tech — Madurai**
+### Phoenix Soft Tech — Madurai
 
-📅 July 2026
+📅 **July 2026**
 
-- Developed responsive full-stack web applications using the **MERN stack**.
-- Built **RESTful APIs**.
-- Implemented **CRUD operations**.
-- Integrated MongoDB with React applications.
-- Collaborated with the development team using **Git/GitHub**.
-
----
+* Developed responsive full-stack web applications using the **MERN stack**.
+* Built **RESTful APIs**.
+* Implemented **CRUD operations**.
+* Integrated MongoDB with React applications.
+* Collaborated with the development team using **Git/GitHub**.
 
 ## 🐍 Python Full Stack Development Intern
 
-**Vinsup Infotech — Madurai**
+### Vinsup Infotech — Madurai
 
-📅 January 2025
+📅 **January 2025**
 
-- Gained hands-on experience in Python full-stack development.
-- Worked with Flask, HTML, CSS and databases.
-- Contributed to web application development.
-- Worked on database integration.
-
----
+* Gained hands-on experience in Python full-stack development.
+* Worked with Flask, HTML, CSS and databases.
+* Contributed to web application development.
+* Worked on database integration.
 
 # 🏆 Hackathons & Events
 
-### 🚀 Rajalakshmi Engineering College — Chennai
+## 🚀 Rajalakshmi Engineering College — Chennai
 
 Participated in a hackathon focused on developing innovative technology solutions.
 
-### 💡 K. Ramakrishnan College of Engineering
+## 💡 K. Ramakrishnan College of Engineering
 
 Participated in a hackathon focused on solving real-world problems through technology.
-
----
 
 # 📜 Certifications
 
 🏅 **React.js — Scaler Academy**
 
 🏅 **MongoDB Basics for Students**
-
----
 
 # 📊 GitHub Statistics
 
@@ -227,8 +207,6 @@ Participated in a hackathon focused on solving real-world problems through techn
 
 </div>
 
----
-
 # 🌱 Currently Learning
 
 <div align="center">
@@ -242,8 +220,6 @@ Participated in a hackathon focused on solving real-world problems through techn
 <img src="https://img.shields.io/badge/Scalable%20Software-FF6B35?style=for-the-badge"/>
 
 </div>
-
----
 
 # 🤝 Let's Connect
 
