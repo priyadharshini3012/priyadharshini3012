@@ -195,15 +195,11 @@ Participated in a hackathon focused on solving real-world problems through techn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyadharshini3012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyadharshini3012&theme=tokyonight" width="100%"/>
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini3012&theme=tokyonight&hide_border=true" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini3012&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
