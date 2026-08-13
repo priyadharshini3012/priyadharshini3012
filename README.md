@@ -47,7 +47,7 @@
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### 🎨 Frontend
