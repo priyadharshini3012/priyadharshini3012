@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Software+Developer;Full+Stack+Developer;Building+Real-World+Solutions;React.js+%7C+Node.js+%7C+Flask;Exploring+AI-Powered+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+Full+Stack+Developer;Building+Real-World+Solutions;React.js+%7C+Node.js+%7C+Flask;Exploring+AI-Powered+Applications"/>
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 🎓 Computer Science and Engineering student at **PSNA College of Engineering and Technology**
 
-💻 **Software Developer | Full Stack Developer**
+💻 **AI Full Stack Developer**
 
 🚀 Passionate about building practical applications that solve real-world problems.
 
@@ -61,7 +61,7 @@
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🔧 Tools
@@ -128,6 +128,36 @@ An AI-powered web application for summarizing text and PDF documents.
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
+
+## 🔍 AI Incident Investigator
+
+### AI-Powered Software Incident Analysis
+
+An AI-powered application that analyzes software incident logs, retrieves similar past incidents using semantic similarity, and generates investigation reports to help developers troubleshoot issues.
+
+**✨ Features**
+
+* 📋 Software incident log analysis
+* 🔎 Semantic search for similar past incidents
+* 🧠 AI-generated incident investigation reports
+* 📊 Evidence-based findings and possible causes
+* 🛠️ Troubleshooting suggestions for developers
+* 📁 Incident history and knowledge retrieval
+
+**🛠️ Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-412991?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+**🔗 [View Project Repository](https://github.com/priyadharshini3012/Incident-Investigator)**
 
 ## 📋 MERN Task Manager
 
